@@ -1,1 +1,1 @@
-These are all the projects I've done in Unreal Engine 5 in my Game Programming Paradigms class. The zip files require unreal engine to open, to view my code see my gitlab website: https://gitlab.com/dashboard/projects
+These are all the projects I've done in Unreal Engine 5 in my Game Programming Paradigms class. The zip files require unreal engine to open, to view my code, see my gitlab website: https://gitlab.com/dashboard/projects
